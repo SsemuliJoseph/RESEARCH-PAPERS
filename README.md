@@ -192,7 +192,7 @@ RESEARCH-PAPERS/
 └── README.md
 ```
 
-Each paper may eventually have a corresponding research note containing:
+Each paper may eventually have a corresponding research note containing the following:
 
 ```text
 Paper
