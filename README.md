@@ -248,14 +248,10 @@ This repository is part of my ongoing journey toward becoming a stronger **AI en
 
 ---
 
-## 👨🏽‍💻 Author
+## 🤝 Collaboration
 
-**Ssemuli Joseph**
-
-Computer Science / AI Engineering Student
-Uganda 🇺🇬
-
-GitHub: [@SsemuliJoseph](https://github.com/SsemuliJoseph)
+This repository also provides an opportunity to explore collaborative
+research, knowledge sharing, and open-source practices.
 
 ---
 
