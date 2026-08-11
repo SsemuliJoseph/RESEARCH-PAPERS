@@ -20,7 +20,7 @@ The goal of this repository is to:
 
 ---
 
-## 📂 Repository Structure
+## 📂 Repository Structure sofar is as seen below:
 
 ```text
 RESEARCH-PAPERS/
